@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Meep Moop</h1>
         <code>
-          if <b>ice is cool => </b>
+          if <b>ice is cool = </b>
             boop
         </code>
       </header>
