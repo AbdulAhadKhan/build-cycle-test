@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Meep Moop</h1>
+        <h2>This is React.</h2>
         <img src={logo} className="App-logo" alt="logo" />
         <code>
           if <b>ice is cool = </b>
