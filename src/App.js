@@ -9,8 +9,7 @@ function App() {
         <h2>This is React.</h2>
         <img src={logo} className="App-logo" alt="logo" />
         <code>
-          if <b>ice is cool = </b>
-            boop
+          if <b>ice is cool</b> = boop <b>end</b>
         </code>
       </header>
     </div>
